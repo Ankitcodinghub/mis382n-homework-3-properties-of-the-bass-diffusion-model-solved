@@ -1,0 +1,1 @@
+# mis382n-homework-3-properties-of-the-bass-diffusion-model-solved
